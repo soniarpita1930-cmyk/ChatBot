@@ -1,3 +1,3 @@
-Projects and Tasks
+CodSoft-Java-Projects
 
-My CodSoft and CodAlpha Java Internship Tasks and Projects
+My CodAlpha Java Internship Tasks and Projects
