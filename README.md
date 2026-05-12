@@ -1,2 +1,2 @@
 # ChatBot
-My CodSoft Java Internship Tasks and Projects
+My CodSoft and CodAlpha Java Internship Tasks and Projects
